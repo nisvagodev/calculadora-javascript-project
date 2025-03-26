@@ -2,7 +2,7 @@
 
 Link para ver resultado: [CALCULADORA TRABAJO TERMINADO]()
 
-![Captura de pantalla del proyecto de JavaScript]()
+![Captura de pantalla del proyecto de JavaScript](https://github.com/nisvagodev/calculadora-javascript-project/blob/e3561ed68e9208a8e9a53e3a6be485de0ba85ddc/img/captura-de-pantalla.PNG)
 
 ## Funciones Principales
 
